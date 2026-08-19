@@ -1,4 +1,5 @@
 function somar(a, b) {
+  const x = 100;
   return a + b;
 }
 
@@ -10,7 +11,3 @@ module.exports = {
   somar,
   subtrair
 };
-
-function somar(a, b) {
-  return a - b;
-}
