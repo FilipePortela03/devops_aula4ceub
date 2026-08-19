@@ -1,6 +1,5 @@
 function somar(a, b) {
-  const x = 100;
-  return a + b;
+  return a - b;
 }
 
 function subtrair(a, b) {
